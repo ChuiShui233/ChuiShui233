@@ -1,22 +1,60 @@
-<h1 align=“center”>嗨👋，我是崔舒明月</h1>
-<h3 align=“center”>Nya~一个会代码的猫娘</h3>
+# Hello there 👋 
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=chuishui233&label=Profile%20views&color=0e75b6&style=flat” alt=“chuishui233” /> </p>
+### I'm Vatana Chhorn, 
 
-<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><imgsrc=“https://github-profile-trophy.vercel.app/?username=chuishui233” alt=“chuishui233” /></a> </p>
+A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
 
-- 👨 💻 我所有的项目都可以在[否]（否）
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
-📝- 我经常在[cc12.eu.org]（cc12.eu.org）
+### 💼  Things that I'm currently working on: 
+* Doing bachelor's degree in Software Engineering
+* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
+* Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
+* Inquiring more about UX/UI.  
+* Looking forward to take a Web Development Courses in future besides school curriculum. 
+* 🔜
 
-上写文章- 💬 问我关于“QQ：3442681588”
+### 🌱 Challenges that I’m currently challenging myself:
+Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
-📫的事- 如何联系我“chaoscodes125@outlook.com“<h3
+* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
+* Read a book a week
+* Workout 3 days in a row and take a day break 
+* Avoid the over using social media
+* Adapting the minimalism life style
+* 🔜
 
-align=“left”>联系我：</h3>
-<p align=“left”>
-<a href=“https://www.youtube.com/c/chaoscodes” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg” alt=“chaoscodes” height=“30” width=“40” /></a>
-</p><
+ 
+ **Languages and Frameworks:**
+<p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+   </p>
 
-h3 align=“left”>语言和工具：</h3>
-<p align=“left”> <a href=“https://developer.android.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg” alt=“android” width=“40” height=“40”/> </a> <a href=“https://www.arduino.cc/” target=“_blank” rel=“noreferrer”> <img src=“https://cdn.worldvectorlogo.com/logos/arduino-1.svg” alt=“arduino” width=“40” height=“40”/> </a> <a href=“https://www.w3schools.com/cpp/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg” alt=“cplusplus” width=“40” height=“40”/> </a> <a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg” alt=“docker” width=“40” height=“40”/> </a> <a href=“https://flutter.dev” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg” alt=“flutter” width=“40” height=“40”/> </a> <a href=“https://cloud.google.com” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg” alt=“gcp” width=“40” height=“40”/> </a> <a href=“https://git-scm.com/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg” alt=“git” width=“40” height=“40”/> </a> <a href=“https://www.w3.org/html/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg” alt=“html5” width=“40” height=“40”/> </a> <a href=“https://www.java.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg” alt=“java” width=“40” height=“40”/> </a> <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg” alt=“javascript” width=“40” height=“40”/> </a> <a href=“https://www.elastic.co/kibana” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg” alt=“kibana” width=“40” height=“40”/> </a> <a href=“https://kotlinlang.org” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg” alt=“kotlin” width=“40” height=“40”/> </a> <a href=“https://www.linux.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“linux” width=“40” height=“40”/> </a> <a href=“https://www.mysql.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“40” height=“40”/> </a> <a href=“https://www.nginx.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg” alt=“nginx” width=“40” height=“40”/> </a> <a href=“https://nodejs.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg” alt=“nodejs” width=“40” height=“40”/> </a> <a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> <a href=“https://pytorch.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg” alt=“pytorch” width=“40” height=“40”/> </a> <a href=“https://www.qt.io/” target=“_blank” rel=“noreferrer”> <img src=“https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg” alt=“qt” width=“40” height=“40”/> </a> <a href=“https://reactjs.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg” alt=“react” width=“40” height=“40”/> </a> 
+**Connect with me:**
+<p align="left">
+<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+
+Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
+
+<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
+
+---
+
+### Credit to 
+-  Mandragora Estudio **for GIF**. 
+
+https://dribbble.com/shots/9344637-working-hard
+
+⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+
