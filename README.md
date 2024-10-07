@@ -1,8 +1,8 @@
 # Hello there 👋 
 
-### I'm Vatana Chhorn, 
+### I'm ChuiShuiMingYue (吹水明月), 
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
+A junior high school student who writes code amateur! 🤗 
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
@@ -47,14 +47,8 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=ChuiShui233&show_icons=true)
 
 ---
 
-### Credit to 
--  Mandragora Estudio **for GIF**. 
-
-https://dribbble.com/shots/9344637-working-hard
-
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
-
+⭐️ From [VatanaChhorn](https://github.com/ChuiShui233)
