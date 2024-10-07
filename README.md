@@ -31,7 +31,7 @@ Balancing learning, challenges, and fun!
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="Html" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/PyQt5_logo.svg/2048px-PyQt5_logo.svg.png" alt="PyQt5" width="40" height="40" /></code>  <!-- Added PyQt5 icon -->
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_48x48.png" alt="kotlin" width="40" height="40" /></code>
 </p>
 
 
