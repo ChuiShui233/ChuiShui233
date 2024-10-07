@@ -8,7 +8,7 @@ A junior high school student who loves to code in my spare time! 🤗
 
 ### What I'm currently working on🤗: 
 * Learning how to code through various projects and challenges.
-* Taking an online Swift course on Udemy, hoping to contribute to iOS open-source projects soon.
+* Let's begin a wonderful life of goofing off (◦˙▽˙◦)
 * Experimenting with photo editing using Adobe Lightroom and vector design in Adobe Illustrator.
 * 🔜 (More exciting projects coming soon!)
 
@@ -30,8 +30,8 @@ With school and plenty of free time, I'm focusing on learning and challenging my
 
 **Connect with me:**
 <p align="left">
-<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 ---
