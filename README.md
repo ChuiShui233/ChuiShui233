@@ -6,12 +6,10 @@ A junior high school student who loves to code in my spare time! 🤗
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
-### 💼 What I'm currently working on: 
+### What I'm currently working on🤗: 
 * Learning how to code through various projects and challenges.
 * Taking an online Swift course on Udemy, hoping to contribute to iOS open-source projects soon.
 * Experimenting with photo editing using Adobe Lightroom and vector design in Adobe Illustrator.
-* Learning about UX/UI design to improve user experience in the apps I work on.
-* Thinking about exploring web development after I finish my current projects. 
 * 🔜 (More exciting projects coming soon!)
 
 ### 🌱 Challenges I'm taking on:
@@ -25,9 +23,9 @@ With school and plenty of free time, I'm focusing on learning and challenging my
  
  **Languages and Tools I'm using:**
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="Swift" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="Python" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Html" width="40" height="40" /></code>&nbsp;
 </p>
 
 **Connect with me:**
