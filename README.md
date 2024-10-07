@@ -1,32 +1,39 @@
-# Hello there 👋 
+# Hello there 👋
 
-### I'm ChuiShuiMingYue (吹水明月),
+### Hi, I'm ChuiShuiMingYue (吹水明月)! ✨
 
-A junior high school student who loves to code in my spare time! 🤗 
+I'm a junior high school student passionate about coding! (づ｡◕‿‿◕｡)づ
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
-### What I'm currently working on🤗: 
-* Learning how to code through various projects and challenges.
-* Let's begin a wonderful life of goofing off (◦˙▽˙◦)
-* Experimenting with photo editing using Adobe Lightroom and vector design in Adobe Illustrator.
-* 🔜 (More exciting projects coming soon!)
+### What I'm currently working on 🤗:
 
-### 🌱 Challenges I'm taking on:
-With school and plenty of free time, I'm focusing on learning and challenging myself:
+*  I'm diving deep into various coding projects and challenges to hone my skills! ٩(๑^o^๑)۶
+*  Embarking on a journey of fun and creative exploration! (◦˙▽˙◦)
+*  I'm experimenting with photo editing in Adobe Lightroom, and vector design in Adobe Illustrator.  I've recently been drawn to the Fluent Design System style.  It's so cool! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+*  I'm also working on some fun PyQt projects to develop helpful little tools! ٩(๑^o^๑)۶
+*  🔜 (More exciting projects coming soon! 💖)
 
-* Spend 2-3 hours coding daily, balancing schoolwork and hobbies.
-* Read one book every two weeks to keep my mind sharp.
-* Try to stay off social media and focus on personal growth.
-* Adopt a minimalist approach to life and avoid distractions.
 
- 
- **Languages and Tools I'm using:**
+###  🌱 My Challenges:
+
+Balancing learning, challenges, and fun!
+
+*  I dedicate 2-3 hours daily to coding, balancing it with my schoolwork! ٩(๑^o^๑)۶
+*  I'm aiming to read one book every two weeks to keep my mind sharp! ✨
+*  I'm trying to minimize my social media usage and focus on personal growth! 💖
+*  I'm embracing a minimalist lifestyle, avoiding distractions, and striving for the best version of myself! ✨
+
+
+**Languages and Tools I'm using:**
+
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="Html" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/PyQt5_logo.svg/2048px-PyQt5_logo.svg.png" alt="PyQt5" width="40" height="40" /></code>  <!-- Added PyQt5 icon -->
 </p>
+
 
 **Connect with me:**
 <p align="left">
