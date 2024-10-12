@@ -8,20 +8,20 @@ I'm a junior high school student passionate about coding! (づ｡◕‿‿◕｡
 
 ### What I'm currently working on 🤗:
 
-*  I'm diving deep into various coding projects and challenges to hone my skills! ٩(๑^o^๑)۶
-*  Embarking on a journey of fun and creative exploration! (◦˙▽˙◦)
-*  I'm experimenting with photo editing in Adobe Lightroom, and vector design in Adobe Illustrator.  I've recently been drawn to the Fluent Design System style.  It's so cool! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-*  I'm also working on some fun PyQt projects to develop helpful little tools! ٩(๑^o^๑)۶
-*  🔜 (More exciting projects coming soon! 💖)
+*  I'm diving deep into various coding projects and challenges to hone my skills!
+*  Embarking on a journey of fun and creative exploration!
+*  I'm experimenting with photo editing in Adobe Lightroom, and vector design in Adobe Illustrator.  I've recently been drawn to the Fluent Design System style.  It's so cool!
+*  I'm also working on some fun PyQt projects to develop helpful little tools!
+*  🔜 (More exciting projects coming soon! )
 
 
 ###  🌱 My Challenges:
 
 Balancing learning, challenges, and fun!
 
-*  I dedicate 2-3 hours daily to coding, balancing it with my schoolwork! ٩(๑^o^๑)۶
-*  I'm aiming to read one book every two weeks to keep my mind sharp! ✨
-*  I'm trying to minimize my social media usage and focus on personal growth! 💖
+*  I dedicate 2-3 hours daily to coding, balancing it with my schoolwork! (◦˙▽˙◦)
+*  I'm aiming to read one book every two weeks to keep my mind sharp! 
+*  I'm trying to minimize my social media usage and focus on personal growth! 
 *  I'm embracing a minimalist lifestyle, avoiding distractions, and striving for the best version of myself! ✨
 
 
