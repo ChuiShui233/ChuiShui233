@@ -2,7 +2,7 @@
 
 ### Hi, I'm ChuiShuiMingYue (吹水明月)! ✨
 
-I'm a junior high school student passionate about coding! (づ｡◕‿‿◕｡)づ
+I'm a junior high school student passionate about coding!
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
