@@ -14,17 +14,6 @@ I'm a junior high school student passionate about coding!
 *  I'm also working on some fun PyQt projects to develop helpful little tools!
 *  🔜 (More exciting projects coming soon! )
 
-
-###  🌱 My Challenges:
-
-Balancing learning, challenges, and fun!
-
-*  I dedicate 2-3 hours daily to coding, balancing it with my schoolwork! (◦˙▽˙◦)
-*  I'm aiming to read one book every two weeks to keep my mind sharp! 
-*  I'm trying to minimize my social media usage and focus on personal growth! 
-*  I'm embracing a minimalist lifestyle, avoiding distractions, and striving for the best version of myself! ✨
-
-
 **Languages and Tools I'm using:**
 
 <p align="left">
