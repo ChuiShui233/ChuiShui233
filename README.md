@@ -20,6 +20,7 @@ I'm a **14-year-old junior high school student** who is passionate about **codin
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_48x48.png" alt="Golang" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="Swift" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40" height="40" /></code>
 </p>
 
 ---
