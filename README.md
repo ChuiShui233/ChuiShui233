@@ -24,11 +24,21 @@ I'm a junior high school student passionate about coding!
 </p>
 
 
-**Connect with me:**
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
+> ## **🧋My GitHub statistics**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongguacute)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongguacute&layout=compact)
+
+
+> ## **🌈My account**
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-white?logo=bilibili)](https://space.bilibili.com/1486590453)
+
+[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@dongguacute)
+[![X](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/Dongguacute)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/Dongguacute)
+[![Instagram](https://img.shields.io/badge/instagram-white?logo=instagram)](https://www.instagram.com/dongguacute)
+
+**Follow me, please!!!**
 
 ---
 
