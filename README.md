@@ -26,7 +26,7 @@ I'm a junior high school student passionate about coding!
 
 > ## **🧋My GitHub statistics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuishui233&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuishui233&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuishui233&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuishui233&layout=compact)
 
 
 > ## **🌈My account**
