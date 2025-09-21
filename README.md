@@ -6,7 +6,7 @@
 
 > *“Stay hungry, stay foolish.”* – Steve Jobs  
 
-I'm a **14-year-old junior high school student** who is passionate about **coding and creating cool projects**! 🚀  
+I'm a **14-year-old junior high school student** who is passionate about **coding and creating cool projects**!  
 
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
