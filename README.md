@@ -1,5 +1,7 @@
 # Hello there 👋
 
+![awa](https://moegirl.icu/File:%E5%85%AD%E8%8A%B1%E8%BD%AC%E6%89%8B%E6%8C%87.gif)
+
 ### Hi, I'm **ChuiShuiMingYue (吹水明月)!** ✨  
 
 > *“Stay hungry, stay foolish.”* – Steve Jobs  
