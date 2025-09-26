@@ -40,8 +40,6 @@ I'm a **14-year-old junior high school student** who is passionate about **codin
 [![Bilibili](https://img.shields.io/badge/Bilibili-white?logo=bilibili)](https://space.bilibili.com/1012112596)  
 [![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/koishi514)  
 
-💡 *“The best way to predict the future is to invent it.” – Alan Kay*  
-
 **👉 Follow me, please!!!**  
 
 ---
