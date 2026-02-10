@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Run update script
-        run: node update-age.js
+        run: node update.js
 
       - name: Commit changes
         run: |
